@@ -1,0 +1,6 @@
+.card-wrapper {
+  width: 200px;
+  /* height: 100px; */
+  border: 2px solid var(--code-bg);
+
+}
